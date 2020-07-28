@@ -1,0 +1,10 @@
+body {
+
+	background-color: pink;
+	font-size: 130%;
+}
+
+ /*S U M M A R Y*/
+ /*1.Placing styles inline is greta for quick testing*/
+ /*2. Real sites almost always use external styles*/
+ /*3. Head styles are usually there to override external ones*/
